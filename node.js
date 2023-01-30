@@ -24,6 +24,21 @@
 
 // boolean => bu true yoki false qiymatlarni qabul qiladi
 
-let num1 = 1
-let num2 = 2
-console.log(num1 < num2);
+// let num1 = 1
+// let num2 = 2
+// console.log(num1 < num2);
+
+// object 
+
+// let user = {name:'Samandar', surname: 'Ismoiljonov'}
+// console.log(user);
+
+// data type 
+
+// console.log(typeof '12345');
+
+let name = "Samandar"
+
+console.log(`hello ${1}`);
+console.log(`hello ${"name"}`);
+console.log(`hello ${name}`);
