@@ -37,8 +37,21 @@
 
 // console.log(typeof '12345');
 
-let name = "Samandar"
+// let name = "Samandar"
 
-console.log(`hello ${1}`);
-console.log(`hello ${"name"}`);
-console.log(`hello ${name}`);
+// console.log(`hello ${1}`);
+// console.log(`hello ${"name"}`);
+// console.log(`hello ${name}`);
+
+
+
+// let number = '123456789'
+// for (let i = 0; i < number.length; i++) {
+//     number++
+// }
+// console.log(number);
+
+// let name = 'samandar'
+
+let samandar = 20
+let age = 20
